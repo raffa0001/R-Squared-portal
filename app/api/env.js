@@ -17,7 +17,7 @@ if (environment === "development") {
     WS_NODE_LIST_URL_NODE2 = "wss://node01-test.rsquared.digital:8090";
     WS_NODE_LIST_URL_NODE3 = "wss://node01-test.rsquared.digital:8090";
 } else if (environment === "production") {
-    EES_BASE_URL = "https://ees.rsquared.digital";
+    EES_BASE_URL = "https://ees-sta.rsquared.digital";
     REGISTRATION_SERVICE_BASE_URL = "https://reg.rsquared.digital";
     RECAPTCHA_KEY = "6LcF99ApAAAAAEYJMPOzDJX6nT9ZLNtFEqCucTmP";
     DEFAULT_WS_NODE = "wss://node01.rsquared.digital:8090";
