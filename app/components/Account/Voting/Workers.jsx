@@ -75,6 +75,16 @@ export default class Workers extends React.Component {
         // fixme the way WorkersList is injected with workerslist is a complete design fail. use proper controlled component
 
         return (
+            <div style={{padding: "1%"}}>
+                <h4>
+                    {" "}
+                    The worker proposal component is currently under
+                    construction. Check back for updates!{" "}
+                </h4>
+            </div>
+        );
+
+        return (
             <div>
                 <div className="header-selector">
                     <div style={{float: "right"}}>
