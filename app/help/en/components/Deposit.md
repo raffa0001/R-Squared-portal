@@ -1,4 +1,4 @@
 # Deposit
 
-[Deposit & Withdraw help](https://rsquared.digital/deposit-&-withdraw)
+[Deposit & Withdraw help](https://rsquared.digital/deposit-and-withdraw)
 
